@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @samirgeorgy
-- 👀 I’m interested in playing and making video games, reading, traveling and scuba diving
-- 🌱 I’m currently learning gameplay mechanics, AI and basic concept art and modeling.
-- 💞️ I’m looking to collaborate on game development projects of any type.
+- 👀 I’m interested in developing complex software solutions, reading, traveling and scuba diving
+- 🌱 I’m currently working on building healthcare solutions that transform the way healthcare is delivered.
 - 📫 How to reach me:
 
             Email: samir.hasaballa@gmail.com
